@@ -1,5 +1,5 @@
 # ImageJ-nuclei-counter
-### This plugins helps in to automate the image processing necesary to segment and count nuceli from presumably alive cells from DAPI staining confocal microscopy images
+### This plugins automates the image processing necesary to segment and count nuceli from presumably alive cells from DAPI staining confocal microscopy images
 These are two FIJI (ImageJ) plugins I used to automate part of the image processing I needed to count nuclei from confocal microscopy images. It has the potential to greatly improve the time to do repetitive image processing.
 
 How to install
