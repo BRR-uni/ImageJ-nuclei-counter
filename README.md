@@ -59,3 +59,4 @@ The pluggins are deffinitely overfitted to my applications, therefore they lack 
 - The scale set was usefull for my experiments, but will probably change for each microscope used, so you have to manually and carefully set the scale depending on your case. Again this can only be accessed from the code itself
 - The semi-Auto plugin depends on the Splitt channel option which by default will name each channel from the image. If your Dapi Staining is named different from C=2, you need to change it manually from the code. In general the ImageJ macro language will make difficult to handle working with multiple windows, but it is deffinitely something fixable to work smoothly.
 - The features on StarDist are mostly arbitrarily chosen, so they criteria to select proper values might be improved
+- I commented the code in Spanish, so if necessary I can translate it to English
